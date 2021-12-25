@@ -1,0 +1,16 @@
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.csproj.AssemblyReference.cache
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.AssemblyInfoInputs.cache
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.AssemblyInfo.cs
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\oop\lr5\bin\Debug\net5.0\lr5.exe
+C:\Users\vip\Desktop\oop\lr5\bin\Debug\net5.0\lr5.deps.json
+C:\Users\vip\Desktop\oop\lr5\bin\Debug\net5.0\lr5.runtimeconfig.json
+C:\Users\vip\Desktop\oop\lr5\bin\Debug\net5.0\lr5.runtimeconfig.dev.json
+C:\Users\vip\Desktop\oop\lr5\bin\Debug\net5.0\lr5.dll
+C:\Users\vip\Desktop\oop\lr5\bin\Debug\net5.0\ref\lr5.dll
+C:\Users\vip\Desktop\oop\lr5\bin\Debug\net5.0\lr5.pdb
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.dll
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\ref\lr5.dll
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.pdb
+C:\Users\vip\Desktop\oop\lr5\obj\Debug\net5.0\lr5.genruntimeconfig.cache
