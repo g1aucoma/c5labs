@@ -1,0 +1,16 @@
+C:\Users\vip\Desktop\oop\lr4\bin\Debug\net5.0\lr4.exe
+C:\Users\vip\Desktop\oop\lr4\bin\Debug\net5.0\lr4.deps.json
+C:\Users\vip\Desktop\oop\lr4\bin\Debug\net5.0\lr4.runtimeconfig.json
+C:\Users\vip\Desktop\oop\lr4\bin\Debug\net5.0\lr4.runtimeconfig.dev.json
+C:\Users\vip\Desktop\oop\lr4\bin\Debug\net5.0\lr4.dll
+C:\Users\vip\Desktop\oop\lr4\bin\Debug\net5.0\ref\lr4.dll
+C:\Users\vip\Desktop\oop\lr4\bin\Debug\net5.0\lr4.pdb
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.csproj.AssemblyReference.cache
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.AssemblyInfoInputs.cache
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.AssemblyInfo.cs
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.csproj.CoreCompileInputs.cache
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.dll
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\ref\lr4.dll
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.pdb
+C:\Users\vip\Desktop\oop\lr4\obj\Debug\net5.0\lr4.genruntimeconfig.cache
